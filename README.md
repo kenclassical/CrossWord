@@ -29,10 +29,10 @@
   ### กดAWERNเพื่อไปหน้าคำตอบ
   ### ถ้าตอบผิดตามจำนวนจะไปหน้าGAME OVER
   ![image](https://user-images.githubusercontent.com/86766147/196938338-21db33ad-59b9-43a6-bb5b-9bc52b274907.png)
-  ### หน้าGAME OVER
-  ### กด BACK เพื่อไปหน้าเลือกโหมดเเล่น
-  ![image](https://user-images.githubusercontent.com/86766147/196938274-69c7ff6c-b0e7-44e4-9000-12aba1e60427.png)
   ### หน้าคำตอบ
   ### กดNEXTเพื่อทำการไปหน้าเล่น
   ### การทำงานหน้าเล่นเกมจะวงไปเรื่อยจงผู้เล่นถึงLEVEL10จะเป็นการจบเกมแล้วจะกลับไปหน้าเลือกโหมดเกม
   ![image](https://user-images.githubusercontent.com/86766147/196938700-a29652b2-1547-43ea-9bbf-7d7fd11e7e10.png)
+  ### หน้าGAME OVER
+  ### กด BACK เพื่อไปหน้าเลือกโหมดเเล่น
+  ![image](https://user-images.githubusercontent.com/86766147/196938274-69c7ff6c-b0e7-44e4-9000-12aba1e60427.png)
